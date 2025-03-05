@@ -4,5 +4,6 @@ content:
     label: Posts
     type: collection
     path: src/blog
-  
+    fields:
+      - { name: title, label: Title, type: string }
   
